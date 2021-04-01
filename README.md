@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Joshua Frear
-- 👀 I’m interested in environmental data, remote sensing, GIS, and conservation.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Joshua Frear, a graduate student at Duke University.
+- 👀 I’m interested in environmental data, especially spatial data; remote sensing; and conservation.
+- 🌱 I’m currently learning python and R.
+- 📫 How to reach me: jofrear at gmail
 
 <!---
 jofrear/jofrear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
